@@ -6,7 +6,7 @@
 //
 using Foundation;
 
-namespace MarkIt
+namespace Crews.Utility.MarkIt
 {
     [Register("ViewController")]
     partial class ViewController

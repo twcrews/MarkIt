@@ -3,7 +3,7 @@
 using AppKit;
 using Foundation;
 
-namespace MarkIt
+namespace Crews.Utility.MarkIt
 {
     public partial class ViewController : NSViewController
     {

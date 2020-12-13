@@ -1,7 +1,7 @@
 ﻿using AppKit;
 using Foundation;
 
-namespace MarkIt
+namespace Crews.Utility.MarkIt
 {
     [Register("AppDelegate")]
     public class AppDelegate : NSApplicationDelegate

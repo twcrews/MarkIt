@@ -1,6 +1,6 @@
 ﻿using AppKit;
 
-namespace MarkIt
+namespace Crews.Utility.MarkIt
 {
     static class MainClass
     {
